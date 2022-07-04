@@ -49,3 +49,30 @@ nav a {
     font-size: 18px;
     font-family: 'Roboto Bold';
 }
+
+nav {
+    margin-bottom: 20px;
+}
+
+.section-img {
+    height: 640px;
+    background: url(../img/01-background.jpg) center/cover no-repeat;
+}
+
+.section-img__block {
+    height: 190px;
+    width: 420px;
+    background: linear-gradient(180deg, rgba(244, 213, 178, 0.8) 0%, rgba(234, 156, 65, 0.8) 100%);
+    position: absolute;
+    left: 50.7%;
+    top: 54.53%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.sections-img__border {
+    border: 1px solid black;
+    height: 160px;
+    width: 390px;
+    margin: 0 auto;
+}
