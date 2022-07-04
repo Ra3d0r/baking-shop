@@ -57,6 +57,7 @@ nav {
 .section-img {
     height: 640px;
     background: url(../img/01-background.jpg) center/cover no-repeat;
+    position: relative;
 }
 
 .section-img__block {
