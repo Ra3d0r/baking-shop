@@ -97,6 +97,7 @@ nav {
 
 .sections-about__ico {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .sections-about__ico img {
@@ -105,4 +106,46 @@ nav {
 
 .sections-about__ico img:last-child {
     margin-right: 0px;
+}
+
+.section-about {
+    margin-bottom: 20px;
+}
+
+.section-about__text h2 {
+    text-align: center;
+    font-size: 96px;
+    font-family: 'Philosopher', sans-serif;
+    margin: 0 0;
+}
+
+span {
+    color: #f15b40;
+}
+
+.section-about__text p {
+    font-size: 18px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.section-map {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section-map h3 {
+    font-size: 36px;
+    font-family: 'Philosopher', sans-serif;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 1024px;
+    margin-bottom: 20px;
+    border-top: 1px solid #999999;
+}
+
+footer {
+    height: 80px;
 }
